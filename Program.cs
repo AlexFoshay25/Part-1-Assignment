@@ -7,7 +7,7 @@ namespace Hello_World
         static void Main(string[] args)
         {
 
-            //My First Program
+            //Alex Foshay
             string firstName = "Alex";
             string favMovie = "The Matrix";
 
